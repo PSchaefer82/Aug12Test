@@ -3,6 +3,5 @@ Learning More
 
 # A Readme File editing example
 Slowly learning more
-
-# New Branch
-editing adding a new branch
+# Aug 13 Update
+sticking with it
